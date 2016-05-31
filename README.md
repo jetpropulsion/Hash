@@ -1,5 +1,5 @@
 # Hash
-Simple hashing algorithms and partial reimplementation in assembly language
+Simple hashing algorithms and partial reimplementation in assembly language.
 This is eight years old code, so accept that things are changed and modify it accordingly, if really needed.
 Names of the hashing algorithms correspond to their original form, as found on the respective authors' sites.
 
