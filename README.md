@@ -3,7 +3,7 @@ Simple hashing algorithms and partial reimplementation in assembly language
 This is eight years old code, so accept that things are changed and modify it accordingly, if really needed.
 Names of the hashing algorithms correspond to their original form, as found on the respective authors' sites.
 
-NOTE: This is Microsoft preferred "C++" style as found in their code examples, in fact closer to pure C
+NOTE: This is Microsoft preferred "C++" style as found in their code examples, in fact closer to pure C. Project file and solution is upgraded from previous version of Microsoft Visual Studio to Visual Studio Community edition 2015. If you need to compile it with older compiler, please create new project, adding Hash.cpp and Hash_x86.asm to it.
 
 Algorithms covered:
 
